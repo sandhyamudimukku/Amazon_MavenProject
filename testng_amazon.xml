@@ -5,7 +5,7 @@
     <classes>
 		 <class name="Amazon_POM.Amazon_sign_Testcase"/>
 		 <class name="Amazon_POM.Amazon_login_invalidsign"/>
-		<!-- 
+		 
       <class name="Amazon_POM.Verify_Filter_Testcase_notworking"/>
       <class name="Amazon_POM.ManageProfile_Testcase4"/>
       <class name="Amazon_POM.RemoveingandUpdatingcart_Testcase10"/>
@@ -14,7 +14,7 @@
       <class name="Amazon_POM.Checkout_page_Testcase"/>
       <class name="Amazon_POM.Amazon_login_invalidsign"/>
       <class name="Amazon_POM.Amazon_registration_Testcase"/>
-      <class name="Amazon_POM.Page_Display_info_Testcase7"/>-->
+      <class name="Amazon_POM.Page_Display_info_Testcase7"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
