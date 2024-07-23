@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="Amazon_POM.ManageProfile_Testcase4">
+        <methods>
+          <include name="ManageProfile"/>
+        </methods>
+      </class> <!-- Amazon_POM.ManageProfile_Testcase4 -->
+      <class name="Amazon_POM.Verify_Filter_Testcase_notworking">
+        <methods>
+          <include name="Verify_Filter"/>
+        </methods>
+      </class> <!-- Amazon_POM.Verify_Filter_Testcase_notworking -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
